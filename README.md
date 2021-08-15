@@ -1,1 +1,1 @@
-#Python beginner to intermediate course structure
+# Python beginner to intermediate course structure
