@@ -9,3 +9,6 @@
     * Installing python 3 in your computer.
     * IDLE.
     * Hello World.
+    * How To Use Print Function.
+    * Commenting.
+    * Simple Addition, Subtraction, Division and Multiplication.
