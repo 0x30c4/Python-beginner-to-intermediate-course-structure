@@ -1,4 +1,4 @@
-# Python beginner to intermediate course structure
+# Python beginner to intermediate course in Bangla
 
 ## This is a Python 3 course for compilate beginner.
 
