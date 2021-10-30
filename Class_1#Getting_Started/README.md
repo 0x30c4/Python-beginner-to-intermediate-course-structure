@@ -2,7 +2,7 @@
 
 ## [Class Link](https://www.youtube.com/watch?v=K83o7xFZi_A)
 
-## This is the fist class.
+## This is the first class.
 
 ### Topics
     * Introduction To Python.
