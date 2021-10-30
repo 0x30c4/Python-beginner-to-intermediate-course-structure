@@ -19,5 +19,3 @@ in this class.
 # In class task.
 ## 1. Oparate a loop (For/While) on the given list (task_list)
 ## 2. Then check if the number is odd or even.
-
-
